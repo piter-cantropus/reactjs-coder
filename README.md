@@ -6,5 +6,5 @@ It will be done in stages:
 1. 27/04/23: Navbar
 
 
-# js library 
+# front-end framework 
 we use [react-bootstrap](https://react-bootstrap.github.io/).<br>
